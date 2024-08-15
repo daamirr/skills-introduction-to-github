@@ -36,7 +36,7 @@ The following steps will guide you through the process of committing a change on
 
 1. On the **< > Code** tab in the header menu of your repository, make sure you're on your new branch `my-first-branch`.
 
-   - [ ] chaekbox
+   - [x] chaekbox
    - [ ] one more
 
 3. Select the **Add file** drop-down and click **Create new file**.
